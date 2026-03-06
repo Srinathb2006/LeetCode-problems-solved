@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 <!---LeetCode Topics End-->
