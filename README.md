@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
