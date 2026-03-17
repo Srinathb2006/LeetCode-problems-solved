@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1480-running-sum-of-1d-array) |
+| [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
 <!---LeetCode Topics End-->
