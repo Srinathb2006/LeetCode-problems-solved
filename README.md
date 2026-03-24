@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0643-maximum-average-subarray-i) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
