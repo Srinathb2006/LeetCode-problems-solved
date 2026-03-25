@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0875-koko-eating-bananas) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1480-running-sum-of-1d-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
 ## Hash Table
