@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -74,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
