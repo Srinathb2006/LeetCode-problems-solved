@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0069-sqrtx) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1480-running-sum-of-1d-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Simulation
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
