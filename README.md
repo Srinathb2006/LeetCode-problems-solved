@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Linked List
 |  |
 | ------- |
