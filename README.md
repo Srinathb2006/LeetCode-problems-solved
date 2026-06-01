@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1480-running-sum-of-1d-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Tree
 |  |
 | ------- |
