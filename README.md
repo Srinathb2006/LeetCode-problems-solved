@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
