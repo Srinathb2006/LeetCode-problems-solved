@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Tree
