@@ -5,9 +5,9 @@ class Solution {
             map.put(c,map.getOrDefault(c,0)+1);
            }
            int ans=0;
-           for(int c : map.keySet()){
-            if(map.get(c)>nums.length/2)
-            ans=c;
+           for(HashMap.Entry<Integer,Integer>entry:map.entrySet()){
+            if(entry.getValue()>nums.length/2)
+            ans=entry.getKey();
            }
     return ans;}
 }
