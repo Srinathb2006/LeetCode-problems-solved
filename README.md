@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -136,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
