@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1480-running-sum-of-1d-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1642-furthest-building-you-can-reach) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Linked List
