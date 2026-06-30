@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0387-first-unique-character-in-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srinathb2006/LeetCode-problems-solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
 | ------- |
