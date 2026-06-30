@@ -1,0 +1,26 @@
+class Solution {
+    public int maxVowels(String s, int k) {
+     int currentwindow=0;
+     int maxwindow = Integer.MAX_VALUE;
+     HashSet<Character> vowels = new HashSet<>();
+     vowels.add('a');
+     vowels.add('e');
+     vowels.add('i');
+     vowels.add('o');
+     vowels.add('u');
+       for(int i=0;i<k;i++){
+         if(vowels.contains(s.charAt(i)))
+         currentwindow++;
+       } 
+       maxwindow=currentwindow;
+       for(int i=k;i<s.length();i++){
+        if(vowels.contains(s.charAt(i)))
+        currentwindow++;
+        if(vowels.contains(s.charAt(i-k)))
+        currentwindow--;
+
+        maxwindow=Math.max(maxwindow,currentwindow);
+       }
+       return maxwindow;
+    }
+}
